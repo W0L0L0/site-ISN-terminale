@@ -1,0 +1,130 @@
+body
+{
+	margin: 0;
+	background: url('didrit3.jpg') fixed;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+header
+{
+	background: url('didrit3.jpg') fixed;
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+
+
+ol{
+	background: url('didrit2.jpg') fixed;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin: 0;
+
+} 
+ul
+{
+	text-align: center;
+	display: flex;
+	justify-content: space-around;
+}
+
+#A
+{
+	padding: 15px;
+	border: 15px;
+	background-color: #3EE2BC;
+	list-style: none;
+	opacity: 0.9;
+	border-radius: 10px;
+}
+
+#B
+{
+	padding: 15px;
+	border: 15px;
+	background-color: #FFD700;
+	list-style: none;
+	border-radius: 10px;
+	opacity: 0.8;
+}
+
+#C
+{
+	padding: 15px;
+	border: 15px;
+	background-color: #101040;
+	list-style: none;
+	opacity: 0.9;
+	border-radius: 10px;
+	color: white;
+}
+
+table
+{
+	border-collapse: collapse;
+}
+th
+{
+	border: 1px solid white
+}
+td
+{
+	border: 1px solid white	
+}
+
+#z
+{
+	background-color: #FFD700;
+	color: #040403;
+	padding-left: 30px;
+	padding-right: 30px;
+	border-radius: 10px;
+	opacity: 0.9;
+}
+
+
+#A:hover
+{
+	background-color: black;
+}
+#B:hover
+{
+	background-color: #F442EE;
+}
+
+#a
+{
+	background-color: #CE2900;
+	padding-left: 90px;
+	padding-right: 90px;
+}
+
+#b
+{
+	background-image: url("didrit.PNG");
+	padding-right: 40px;
+}
+
+h1
+{
+	text-align: center;
+	margin: 0;
+	padding: 30px;
+	border: 10px;
+	color: white;
+}
+
+footer {
+	display: block;
+	padding: 30px;
+	background-color: #97F270;
+	list-style: none;
+	opacity: 0.9;
+	border-radius: 10px;
+}
+.doki1
+{
+	float: right;
+}
+
